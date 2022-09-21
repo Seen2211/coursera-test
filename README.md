@@ -1,3 +1,2 @@
 # coursera-test
-coursera test reposetory
-theme: minima
+coursera test reposetor
